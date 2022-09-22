@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(163, 162, 162);
+}
+table{
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: bold;
+    border-radius: 15px;
+}
+
+h1{
+    text-align: center;
+    font-size: 3rem;
+    color: white;
+    text-shadow: 5px 5px black;
+}
+
+th{
+    background-color: violet;
+    color: rgb(228, 30, 30);
+}
+
+td{
+    background-color: aquamarine;
+    color: rgb(16, 16, 216);;
+    padding: 6px;
+    border-radius: 10px;
+}
+
+hr{
+    border-color: rgb(16, 16, 216);
+}
+
+p{
+    text-align: center;
+    font-size: 3rem;
+    color: rgb(14, 255, 14);
+    text-shadow: 5px 5px green;
+}
+
